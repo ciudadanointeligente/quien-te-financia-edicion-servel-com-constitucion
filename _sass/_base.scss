@@ -18,12 +18,36 @@ body {
     font-size: $base-font-size;
     line-height: $base-line-height;
     font-weight: 300;
-    color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
 }
 
+section {
+  padding: 80px 0 100px;
+}
 
+section#home {
+    padding: 30px 0 80px;
+}
+
+section.arrow-down {
+    height: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.arrow-down a .fa {
+  margin-top: -30px;
+  background: #EF4036;
+  border-radius: 40px;
+  color: #FFFFFF;
+  padding: 20px;
+  transition: all .2s ease-in-out;
+}
+
+.arrow-down a:hover .fa {
+    transform: scale(1.1);
+}
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -45,6 +69,10 @@ img {
     vertical-align: middle;
 }
 
+img.main{
+    text-align: center;
+    padding: 5% 0 5% 0;
+}
 
 
 /**
@@ -87,6 +115,25 @@ a {
     }
 }
 
+a.btn {
+  color: #FFFFFF;
+  background: #F44336;
+  padding: 10px 30px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  display: inline-block;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.16);
+    &:hover {
+      color: #FFFFFF;
+      background: #FF4E41;
+      text-decoration: none;
+      box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.53);
+    }
+    h2, h3 {
+        color: #FFFFFF;
+        margin: 0;
+    }
+}
 
 
 /**

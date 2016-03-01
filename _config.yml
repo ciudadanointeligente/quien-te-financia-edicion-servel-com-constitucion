@@ -1,7 +1,7 @@
 # site settings
 title: Quien te financia
 email: info@ciudadanointeligente.org
-description: Ciudadano Inteligente te explica la nueva Ley de Financiamiento Electoral.
+description: Descubre cómo se van a financiar los candidatos en las próximas elecciones en Chile.
 baseurl: "http://quientefinancia.cl" # the subpath of your site, e.g. /blog/
 twitter_username: ciudadanoi
 github_username:  ciudadanointeligente

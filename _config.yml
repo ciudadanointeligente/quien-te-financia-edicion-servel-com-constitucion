@@ -1,5 +1,5 @@
 # site settings
-title: Quien te financia
+title: Quién te financia
 email: info@ciudadanointeligente.org
 description: Hasta que no sepamos quién los financia nos gobierna un poder invisible.
 baseurl: "http://quientefinancia.cl" # the subpath of your site, e.g. /blog/
@@ -10,3 +10,7 @@ basedomain: quientefinancia.cl
 
 # build settings
 markdown: kramdown
+
+collections:
+  aportes:
+    output: true

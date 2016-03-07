@@ -21,7 +21,7 @@ title: aporte 2
           <tbody>
             <tr>
               <td>
-                <img src="/img/anonimo-candidato.png" alt="anónimo candidato">
+                <img src="/img/02-anonimo-candidato.png" alt="anónimo candidato">
                 <p>Monto máximo que un ciudadano anónimo puede donar a un candidato.</p>
               </td>
               <td>
@@ -45,7 +45,7 @@ title: aporte 2
             </tr>
             <tr>
               <td>
-                <img src="/img/anonimo-eleccion.png" alt="anónimo elección">
+                <img src="/img/02-anonimo-eleccion.png" alt="anónimo elección">
                 <p>Monto máximo que un ciudadano anónimo puede donar en una elección.</p>
               </td>
               <td colspan="4">

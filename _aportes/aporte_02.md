@@ -45,8 +45,23 @@ title: aporte 2
             <img src="img/02-anonimo-eleccion.png" alt="el billetón">
             Monto máximo que un ciudadano anónimo puede donar en una elección.
           </td>
-          <td colspan="4">
+          <td>
             <img src="img/02-billeton-05.png" alt="el billetito">
+            <br>
+            $3.075.000
+          </td>
+          <td>
+            <img src="img/02-billeton-06.png" alt="el billetito">
+            <br>
+            $3.075.000
+          </td>
+          <td>
+            <img src="img/02-billeton-07.png" alt="el billetito">
+            <br>
+            $3.075.000
+          </td>
+          <td>
+            <img src="img/02-billeton-08.png" alt="el billetito">
             <br>
             $3.075.000
           </td>

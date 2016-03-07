@@ -1,12 +1,13 @@
 ---
 title: aporte 2
 ---
-<section>
+<section id="aporte-02">
   <div class="col-md-4">
     <h3>Aportes anónimos</h3>
     <p>Serán anonimos para la ciudadanía pero el Servel registrará la nómina de donantes y los montos asociados.</p>
   </div>
   <div class="col-md-8">
+  <div class="table-responsive">
     <table class="table">
       <thead>
         <tr>
@@ -52,5 +53,6 @@ title: aporte 2
         </tr>
       </tbody>
     </table>
+  </div>
   </div>
 </section>

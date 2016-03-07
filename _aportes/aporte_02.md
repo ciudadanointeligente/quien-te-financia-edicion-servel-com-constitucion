@@ -21,19 +21,22 @@ title: aporte 2
           <tbody>
             <tr>
               <td>
-                <img src="" alt="el billetón">
-                Monto máximo que un ciudadano anónimo puede donar a un candidato.
+                <img src="/img/anonimo-candidato.png" alt="anónimo candidato">
+                <p>Monto máximo que un ciudadano anónimo puede donar a un candidato.</p>
               </td>
               <td>
-                <img src="" alt="el billetito">
+                <img src="/img/02-billeton-01.png" alt="$1.025.000">
+                <br>
                 $1.025.000
               </td>
               <td>
-                <img src="" alt="el billetito">
+                <img src="/img/02-billeton-02.png" alt="$512.500">
+                <br>
                 $512.500
               </td>
               <td>
-                <img src="" alt="el billetito">
+                <img src="/img/02-billeton-03.png" alt="$384.450">
+                <br>
                 $384.450
               </td>
               <td>
@@ -42,11 +45,11 @@ title: aporte 2
             </tr>
             <tr>
               <td>
-                <img src="" alt="el billetón">
-                Monto máximo que un ciudadano anónimo puede donar en una elección.
+                <img src="/img/anonimo-eleccion.png" alt="anónimo elección">
+                <p>Monto máximo que un ciudadano anónimo puede donar en una elección.</p>
               </td>
               <td colspan="4">
-                <img src="" alt="el billetito">
+                <img src="/img/02-billeton-06.png" alt="$3.075.000">
                 <br>
                 $3.075.000
               </td>

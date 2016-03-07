@@ -1,6 +1,7 @@
 $celestino : #73c4cd;
 $rogelio : #ee4538;
 $rubio : #fab01c;
+$pinky: #d33170;
 
 #aporte-01 {
   background-color: #171c36;
@@ -16,4 +17,8 @@ span.txt-rogelio {
 
 span.txt-rubio {
   color: $rubio;
+}
+
+#aporte-02 {
+  background-color: $pinky;
 }

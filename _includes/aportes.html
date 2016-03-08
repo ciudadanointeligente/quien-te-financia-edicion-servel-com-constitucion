@@ -1,5 +1,6 @@
 <div class="container">
-  {% for aporte in site.aportes %}
+  {% assign aportes = site.aportes | sort:"order_appearin"  %}
+  {% for aporte in aportes %}
     {{ aporte.content }}
   {% endfor %}
 </div>

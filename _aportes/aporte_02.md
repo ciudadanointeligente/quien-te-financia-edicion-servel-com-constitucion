@@ -22,7 +22,7 @@ order_appearin: 2
       <tbody>
         <tr>
           <td>
-            <img src="img/02-anonimo-candidato.png" alt="el billetón">
+            <img src="img/02-anonimo-candidata.png" alt="el billetón">
             Monto máximo que un ciudadano anónimo puede donar a un candidato.
           </td>
           <td>

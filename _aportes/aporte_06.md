@@ -24,23 +24,23 @@ order_appearin: 4
             <tr>
               <td>Votos obtenidos por candidatos</td>
               <td>
-                <img src="" alt="">
+                <img src="/img/04-billeton-01.png" alt="$2.000.000">
                 <p>2.000 votos</p>
               </td>
               <td>
-                <img src="" alt="">
+                <img src="/img/04-billeton-02.png" alt="$3.000.000">
                 <p>3.000 votos</p>
               </td>
               <td>
-                <img src="" alt="">
+                <img src="/img/04-billeton-03.png" alt="$4.000.000">
                 <p>4.000 votos</p>
               </td>
             </tr>
             <tr>
               <td>Monto estatal recibido</td>
-              <td> <img src="" alt="$2.000.000"> </td>
-              <td> <img src="" alt="$3.000.000"> </td>
-              <td> <img src="" alt="$4.000.000"> </td>
+              <td> <img src="/img/04-candidata-01.png" alt="$2.000.000"> </td>
+              <td> <img src="/img/04-candidata-03.png" alt="$3.000.000"> </td>
+              <td> <img src="/img/04-candidato-02.png" alt="$4.000.000"> </td>
             </tr>
             <tr>
               <td></td>

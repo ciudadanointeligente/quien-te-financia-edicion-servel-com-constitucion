@@ -21,11 +21,14 @@ span.txt-rubio {
 
 #aporte-02 {
   background-color: $pinky;
+  h3, h4, p, table {
+    color: #FFFFFF
+  }
 }
 
 #aporte-03 {
   background-color: $rubio;
-  h3, p {
+  h3, h4, p {
     color: #FFFFFF;
   }
 }
@@ -44,8 +47,5 @@ span.txt-rubio {
   background-color: $rogelio;
   h3, h4, p, table {
     color: #FFFFFF;
-  }
-  table {
-    margin: -1px;
   }
 }

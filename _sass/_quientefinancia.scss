@@ -4,12 +4,12 @@ $rubio : #fab01c;
 $pinky: #d33170;
 $marino: #171c36;
 
-/**/
+/*BODY*/
 html body {
+  font-family: 'Montserrat', sans-serif;
   margin: 0;
   font-weight: normal;
   font-size: 15px;
-  font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   -webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
   text-shadow: rgba(0,0,0,.01) 0 0 1px;
@@ -17,10 +17,7 @@ html body {
   color: #FFFFFF;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Yanone Kaffeesatz", Helvetica, sans-serif;
-}
-
+/*HEADER*/
 .site-header {
   min-height: 70px;
     background: #1F1B50;
@@ -48,13 +45,7 @@ div#bajada-logo {
   margin-left: -120px;
 }
 
-footer {
-  background:#171C36;
-  padding: 60px 0;
-  color: #FFFFFF;
-}
-/**/
-
+/*SECTIONS*/
 #aporte-01 {
   background-color: #171c36;
 }
@@ -99,4 +90,28 @@ span.txt-rubio {
 
 #aporte-06 {
   background-color: $rogelio;
+}
+
+/*HEADINGS*/
+h2 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+h4 {
+  font-family: 'Roboto Slab', serif;
+  font-weight: 700;
+}
+
+/*FOOTER*/
+footer {
+  background:#171C36;
+  padding: 60px 0;
+  color: #FFFFFF;
 }

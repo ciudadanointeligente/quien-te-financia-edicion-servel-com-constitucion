@@ -9,7 +9,7 @@ order_appearin: 5
         <img src="/img/05-empresas.png" class="img-responsive" alt="empresas">
       </div>
       <div class="col-sm-6 col-md-6">
-        <h2>Los aportes de empresas quedan <span class="txt-rogelio">prohibidos</span></h2>
+        <h2><span class="txt-marino">Los aportes de empresas quedan</span> <span class="txt-rogelio">prohibidos</span></h2>
       </div>
     </div>
   </div>

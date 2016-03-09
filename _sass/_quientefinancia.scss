@@ -2,6 +2,7 @@ $celestino : #73c4cd;
 $rogelio : #ee4538;
 $rubio : #fab01c;
 $pinky: #d33170;
+$marino: #171c36;
 
 /**/
 html body {
@@ -80,8 +81,19 @@ span.txt-rubio {
 
 #aporte-04 {
   background-color: $celestino;
+  span.txt-marino {
+    color: $marino;
+  }
   span.txt-rogelio {
     text-transform: uppercase;
+  }
+}
+
+#aporte-05 {
+  background-color: $marino;
+  padding-bottom: 20px;
+  img:last-of-type {
+    padding-top: 10px;
   }
 }
 

@@ -128,6 +128,31 @@ h4 {
   font-size: 30px;
 }
 
+/*TABLE*/
+th{
+  font-family: 'Roboto Slab', serif;
+  color: $marino;
+  text-align: center;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+td{
+  font-family: 'Roboto Slab', serif;
+  color: $marino;
+  text-align: center;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.txt-monto{
+  font-family: 'Montserrat', sans-serif;
+  color: #FFF;
+  text-align: center;
+  font-weight: 700;
+  font-size: 16px;
+}
+
 /*FOOTER*/
 footer {
   background:#171C36;

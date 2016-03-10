@@ -34,45 +34,45 @@ order_appearin: 2
               <tr>
                 <td>
                   <img src="img/02-anonimo-candidata.png" alt="el billetón">
-                  Monto máximo que un ciudadano anónimo puede donar a un candidato.
+                  <p>Monto máximo que un ciudadano anónimo puede donar a un candidato.</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="img/02-billeton-01.png" alt="el billetito">
                   $1.025.000
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="img/02-billeton-02.png" alt="el billetito">
                   $512.500
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="img/02-billeton-03.png" alt="el billetito">
                   $384.450
                 </td>
-                <td>
+                <td class="txt-monto">
                   10% gasto máximo electoral alcaldes y concejales
                 </td>
               </tr>
               <tr>
                 <td>
                   <img src="img/02-anonimo-eleccion.png" alt="el billetón">
-                  Monto máximo que un ciudadano anónimo puede donar en una elección.
+                  <p>Monto máximo que un ciudadano anónimo puede donar en una elección.</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="img/02-billeton-05.png" alt="el billetito">
                   <br>
                   $3.075.000
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="img/02-billeton-06.png" alt="el billetito">
                   <br>
                   $3.075.000
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="img/02-billeton-07.png" alt="el billetito">
                   <br>
                   $3.075.000
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="img/02-billeton-08.png" alt="el billetito">
                   <br>
                   $3.075.000

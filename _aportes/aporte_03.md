@@ -36,19 +36,19 @@ order_appearin: 3
                   <img src="/img/03-privado-candidata.png" alt="ciudadano candidato">
                   <p>Monto máximo que un ciudadano puede donar a un candidato.</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="/img/03-billeton-01.png" alt="$13.315.000">
                   <p>$13.315.000</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="/img/03-billeton-02.png" alt="$8.073.450">
                   <p>$8.073.450</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="/img/03-billeton-03.png" alt="$6.407.500">
                   <p>$6.407.500</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <p>10% gasto máximo electoral alcaldes y concejales</p>
                 </td>
               </tr>
@@ -57,19 +57,19 @@ order_appearin: 3
                   <img src="/img/03-privado-eleccion.png" alt="ciudadano elección">
                   <p>Monto máximo que un ciudadano puede donar en una elección.</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="/img/03-billeton-05.png" alt="el billetito">
                   <p>$51.260.000</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="/img/03-billeton-05.png" alt="el billetito">
                   <p>$51.260.000</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="/img/03-billeton-05.png" alt="el billetito">
                   <p>$51.260.000</p>
                 </td>
-                <td>
+                <td class="txt-monto">
                   <img src="/img/03-billeton-08.png" alt="el billetito">
                   <p>$25.630.000</p>
                 </td>

@@ -24,15 +24,15 @@ order_appearin: 4
               </tr>
               <tr>
                 <td>Votos obtenidos por candidatos</td>
-                <td>
+                <td class="txt-monto">
                   <p>2.000 votos</p>
                   <img src="/img/04-candidata-01.png" alt="Candidato">
                 </td>
-                <td>
+                <td class="txt-monto">
                   <p>3.000 votos</p>
                   <img src="/img/04-candidato-02.png" alt="Candidato">
                 </td>
-                <td>
+                <td class="txt-monto">
                   <p>4.000 votos</p>
                   <img src="/img/04-candidata-03.png" alt="Candidato">
                 </td>
